@@ -1,0 +1,37 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-top: -3rem;
+}
+
+.heading-container>h1{
+  font-size: 3rem;
+  text-align: center;
+}
+
+.button-container> *{
+  margin: 1rem;
+  width: 4rem;
+  height: 1.5rem;
+}
+.heading-container .time-heading{
+  font-size: 4rem;
+}
+
+.laps-cotainer{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.laps-cotainer{
+  margin-top: 3rem;
+}
+.laps-cotainer>label{
+  font-size: 1.5rem;
+  margin: 0.5rem;
+  
+}

@@ -1,0 +1,10 @@
+ export const INCREMENT = "INCREMENT"
+ export const DECREMENT = "DECREMENT"
+ export const COUNTDOWN = "COUNTDOWN"
+ export const DEFAULTCOUNTDOWN = "DEFAULTCOUNTDOWN"
+ export const STOP = "STOP"
+ export const CREATELAP = "CREATELAP"
+ export const REMOVELAP = "REMOVELAP"
+ export const RESETLAP = "RESETLAP"
+ export const RESET = "RESET"
+ 
